@@ -34,4 +34,4 @@ python depeg_monitor.py \
 
 The script keeps a small state file (`depeg_state.json`) in the current directory to remember when it last sent an alert. This ensures you do not get spammed with hundreds of notifications if a stablecoin stays depegged for hours. By default, it rate-limits alerts to once every 15 minutes per token.
 
-<!-- checked: 2026-09-24 -->
+<!-- checked: 2026-09-25 -->
